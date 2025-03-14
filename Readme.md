@@ -1,3 +1,3 @@
 # Readme
 
-Edited from https://github.com/warewulf/warewulf-node-images
+Adapted from https://github.com/warewulf/warewulf-node-images
